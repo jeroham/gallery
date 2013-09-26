@@ -1927,6 +1927,25 @@
             "license": "Apache 2.0",
             "version": "1.0",
             "blurb": "A snap scroller control that is based on the Slideable. Currently only supports horizontal scrolling. Optimized for best performance."
-        }
+        },
+		 {
+            "name": "jeroham.Timer",
+            "displayName": "Timer",
+            "owner": "jeroham",
+            "dependencies": [
+                {
+                    "name": "Enyo 2",
+                    "version": "2.2"
+                }
+			],
+            "url": "https://github.com/jeroham/enyo-timer/",
+            "demoUrl": "http://www.singleb.it/enyo-timer-demo/",
+            "submissionDate": "Sep 26, 2013",
+            "testedPlatforms": "Google Chrome (PC), IE 10",
+            "license": "MIT",
+            "version": "1.0",
+            "blurb": "A javascript timer wrapper for Enyo."
+        },
+
     ]
 }
